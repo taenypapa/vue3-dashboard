@@ -6,6 +6,7 @@
           <div class="row justify-content-center">
             <div class="col-12">
               <div class="table-responsive bg-white">
+                <button type="button" class="btn btn-primary">Button</button>
                 <table class="table mb-0">
                   <thead>
                     <tr>
